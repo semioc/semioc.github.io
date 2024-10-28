@@ -6,12 +6,23 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://ferriosa.github.io/</loc>
-  <lastmod>2024-06-13</lastmod>
+  <loc>https://semioc.github.io/</loc>
+  <lastmod>2023-04-13</lastmod>
 </url>
 
 <url>
-  <loc>https://ferriosa.github.io/1.html</loc>
-  <lastmod>2024-03-24</lastmod>
+  <loc>https://semioc.github.io/1.html</loc>
+  <lastmod>2023-02-18</lastmod>
 </url>
+
+<url>
+  <loc>https://semioc.github.io/2.html</loc>
+  <lastmod>2023-08-22</lastmod>
+</url>
+
+<url>
+  <loc>https://semioc.github.io/3.html</loc>
+  <lastmod>2023-06-20</lastmod>
+</url>
+
 </urlset>
